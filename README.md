@@ -3,7 +3,7 @@
 Q) What is the difference of a staggered grid comparing to a normal grid?
 A) A normal grid is symetrical and inline, a staggered grid can have diffrent heights
 
-Q) What is the purpose of logcat?  
+Q) What is the purpose of logcat?
 A) logcat is a command line tool, that also provides system messages or log messages
 
 Q) What kind of gestures are available?
