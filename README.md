@@ -1,6 +1,6 @@
 # Vragen level 2
 
-Q) What is the difference of a staggered grid comparing to a normal grid?
+Q) What is the difference of a staggered grid comparing to a normal grid?   
 A) A normal grid is symetrical and inline, a staggered grid can have diffrent heights
 
 Q) What is the purpose of logcat?    
